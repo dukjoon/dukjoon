@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Law students with coding
 - ⚡ Fun fact: ... Currently learning github too :)
 
+![dukjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdukjoon@gmail.com&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
+출처: https://eunhee-programming.tistory.com/244?category=1233835
+
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript">
