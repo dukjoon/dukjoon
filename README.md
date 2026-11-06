@@ -5,13 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Elice SW Academy
-- 🌱 I’m currently learning ... Frontend, Python
-- 👯 I’m looking to collaborate on ... Frontend project for begginers.
-- 🤔 I’m looking for help with ... Algorithm with python
-- 💬 Ask me about ... Html, Css
+- 🔭 I’m currently working on ... AX Educatiion, Web
+- 👯 I’m looking to collaborate on ... more skills in every boundary.
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... 
 - 📫 How to reach me: ... Email: jungdukjoon@gmail.com
-                          Instagram: dukjoon_
+                          
 - 😄 Pronouns: ... Law students with coding
 - ⚡ Fun fact: ... Currently learning github too :)
 
