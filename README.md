@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dukjoon%20Jung&fontSize=65&fontAlignY=38&desc=Bridging%20Law,%20AI%20Agents%20%26%20Software%20Engineering&descAlignY=58&descFontSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=LAW%20%C3%97%20AI%20ENGINEERING&fontSize=50&fontAlignY=38&desc=Bridging%20Law,%20AI%20Agents%20and%20Full-Stack%20Systems&descAlignY=58&descFontSize=20" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/dukjoon?label=Follow&style=social)](https://github.com/dukjoon)
 [![Email](https://img.shields.io/badge/Contact-jungdukjoon%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:jungdukjoon@gmail.com)
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dukjoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukjoon&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=dukjoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=dukjoon&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
