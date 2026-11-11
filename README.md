@@ -56,9 +56,9 @@
 | 프로젝트명 | 핵심 스택 | 주요 특징 및 역할 | 바로가기 |
 | :--- | :--- | :--- | :---: |
 | **`limit_upcoming`** | `Python` `AI Agent` | AI 에이전트 사용자의 사용 한계 및 권한/토큰을 제어하는 거버넌스 모듈 | [Repo](https://github.com/dukjoon/limit_upcoming) |
-| **`Scheduler_LOA`** | `Spring Boot` `React` | 로스트아크 게이머를 위한 풀스택 일정 및 레이드 관리 스케줄러 | [Repo](https://github.com/dukjoon/Scheduler_LOA) |
+| **`three`** | `Three.js` `WebGL` | Three.js & WebGL 기반 인터랙티브 3D 그래픽스 및 물리 엔진 연구 | [Repo](https://github.com/dukjoon/three) |
 | **`calendar-app`** | `TypeScript` `React` | 직관적인 인터페이스와 타입 안정성을 갖춘 모던 캘린더 웹 앱 | [Repo](https://github.com/dukjoon/calendar-app) |
-| **`three`** | `Three.js` `WebGL` | 3D 웹 렌더링 및 인터랙티브 그래픽스 연구 프로젝트 | [Repo](https://github.com/dukjoon/three) |
+| **`baekjoon`** | `Python` `Algorithms` | 효율적인 자료구조와 알고리즘 문제 해결 아카이브 | [Repo](https://github.com/dukjoon/baekjoon) |
 
 ---
 
