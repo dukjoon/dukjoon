@@ -3,6 +3,13 @@
 <!-- Dynamic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=LAW%20%C3%97%20AI%20ENGINEERING&fontSize=50&fontAlignY=38&desc=Bridging%20Law,%20AI%20Agents%20and%20Full-Stack%20Systems&descAlignY=58&descFontSize=20" width="100%" />
 
+<!-- Animated Typing Tagline -->
+<a href="https://github.com/dukjoon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Law+%C3%97+AI+Engineering;AI+Agent+Governance+%26+Full-Stack+Systems;Building+Safe+%26+Scalable+Web+Architectures" alt="Typing SVG" />
+</a>
+
+<br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/dukjoon?label=Follow&style=social)](https://github.com/dukjoon)
 [![Profile Views](https://komarev.com/ghpvc/?username=dukjoon&label=Profile%20Views&color=7aa2f7&style=flat-square)](https://github.com/dukjoon)
 [![Email](https://img.shields.io/badge/Contact-jungdukjoon%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:jungdukjoon@gmail.com)
@@ -101,6 +108,24 @@
 
 <!-- 31-Day Commit Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dukjoon&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true" width="97%" />
+
+<br/>
+
+<!-- 3D Isometric Contribution Skyline (GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="97%" />
+</picture>
+
+<br/>
+
+<!-- Contribution Snake Animation (GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dukjoon/dukjoon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dukjoon/dukjoon/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/dukjoon/dukjoon/output/github-snake-dark.svg" width="97%" />
+</picture>
 
 </div>
 
